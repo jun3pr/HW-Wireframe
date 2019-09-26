@@ -1,7 +1,26 @@
 body {
     background-color: #777;
+    color: #777;
     font-family: Arial, Helvetica, sans-serif;
-    color: #777; width: 960px;
-    font: size 20px; 
+    color: #777; 
+    width: 960px;
+    font: size 18px; 
+    padding: 100px
 }
    
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+} 
+
+div.d {
+  text-align: justify;
+} 
+
