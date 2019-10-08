@@ -7,20 +7,10 @@ body {
     font: size 18px; 
     padding: 100px
 }
-   
-div.a {
-  text-align: center;
+  
+.wrapper {
+  width:900px;
+  margin:0 auto o auto;
+  padding:20px;
 }
-
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-} 
-
-div.d {
-  text-align: justify;
-} 
 
